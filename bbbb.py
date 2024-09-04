@@ -25,6 +25,6 @@ def arithmetic_arranger(problems, show_answers=True):
     p = l1 + "\n" + l2 + "\n" + l3 + "\n" + l4
     print(p)
     
-arithmetic_arranger(["3 / 855", "3801 - 2", "45 + 43", "123 + 49"], True)
+arithmetic_arranger(["3 + 855", "3801 - 2", "45 + 43", "123 + 49"], True)
 #print("")
 #print("   32         1      45      123      988\n- 698    - 3801    + 43    +  49    +  40\n-----    ------    ----    -----    -----\n -666     -3800      88      172     1028")
